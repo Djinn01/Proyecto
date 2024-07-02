@@ -1,0 +1,3 @@
+class ManageRS:
+    def xd(self):
+        ...
